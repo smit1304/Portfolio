@@ -19,7 +19,10 @@ export default function About() {
       <Row className="mt-4">
         <Col className="text-center">
           {/* Resume Download Button */}
-          <a href="src/components/about/assets/Smit Patel Resume.pdf" download>
+          <a
+            href="public/Smit Patel Resume.pdf"
+            download="Smit Patel Resume.pdf"
+          >
             <Button variant="primary" size="lg">
               Download My Resume
             </Button>
