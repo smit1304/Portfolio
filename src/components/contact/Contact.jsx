@@ -53,6 +53,16 @@ function Contact() {
             </a>
           </p>
           <p>
+            <strong>Github:</strong>{" "}
+            <a
+              href="https://github.com/smit1304"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              My Github Profile
+            </a>
+          </p>
+          <p>
             <strong>LeetCode:</strong>{" "}
             <a
               href="https://leetcode.com/u/smitpatel13/"

@@ -12,7 +12,7 @@ export default function Projects() {
             <Card>
               <Card.Img
                 variant="top"
-                src={"https://smit1304.github.io/Portfolio/" + project.photo}
+                src={project.photo}
                 style={{ width: "100%", height: "300px", objectFit: "cover" }}
               />
               <Card.Body>
