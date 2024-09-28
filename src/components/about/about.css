@@ -1,0 +1,11 @@
+.about-section {
+    padding: 50px 0;
+    /* Vertical padding */
+    text-align: center;
+}
+.about-section {
+    margin: 20px auto;
+    /* Centers the text with margin */
+    max-width: 800px;
+    /* Limits width of the text for better readability */
+}
