@@ -4,7 +4,7 @@ import Skills from "./Skills";
 export default function About() {
   return (
     <Container className="my-5 text-center">
-      <Image src="src\components\about\assets\Profile.jpg" roundedCircle />
+      <Image src="src/components/about/assets/Profile.jpg" roundedCircle />
       <h1>About Me</h1>
       <p className="lead">
         Hi, I am Smit Shantilal Patel, a Game Developer and Gamer. To be
@@ -19,7 +19,7 @@ export default function About() {
       <Row className="mt-4">
         <Col className="text-center">
           {/* Resume Download Button */}
-          <a href="/src/components/about/assets/Smit Patel Resume.pdf" download>
+          <a href="src/components/about/assets/Smit Patel Resume.pdf" download>
             <Button variant="primary" size="lg">
               Download My Resume
             </Button>
