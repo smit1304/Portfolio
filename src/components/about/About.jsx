@@ -20,7 +20,7 @@ export default function About() {
         <Col className="text-center">
           {/* Resume Download Button */}
           <a
-            href="/public/Profile.JPG"
+            href="./assets/Profile.JPG"
             download="Smit Patel Resume.pdf"
           >
             <Button variant="primary" size="lg">
