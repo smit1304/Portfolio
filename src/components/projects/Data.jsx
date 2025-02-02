@@ -3,7 +3,7 @@ export const projects = [
     title: "Dice racer",
     description:
       "Dice racer is a 3D dice based board game for windows platform. ",
-    photo: "public/Dice Racer.png",
+    photo: "Dice Racer.png",
     duration: "48 Hours (GMTK Game Jam July 2022)",
   },
   {
