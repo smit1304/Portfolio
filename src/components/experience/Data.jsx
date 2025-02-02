@@ -4,8 +4,8 @@ export const experience = [
     company: "Digitalrooar Pvt. Ltd",
     year: "May 2023 - July 2023 and Jan 2024 - April 2024",
     src: "digitalrooar.jpeg",
-    description:
-      "As a Game Developer Intern, I worked closely with the design and programming teams to contribute to the development of a 2D card game. My responsibilities included creating levels, designing gameplay mechanics, and assisting in the implementation and design on core gameplay of the game. I also helped with debugging game logic, ensuring smooth player experiences, and participating in game design meetings to provide feedback on features. This role enhanced my knowledge of game engines such as Unity and Unreal, and helped me build a solid foundation in game development workflows.",
+    description: "Developed AT Least, a 2D playing cards game, as Gameplay Programmer and Designer. Designed gameplay systems like card management, AI players. Delivered a functional prototype in 15 days and a complete offline version by internship's end."
+  
   },
   {
     role: "Game Developer Intern",
@@ -13,6 +13,6 @@ export const experience = [
     year: "May 2022 - July 2022",
     src: "ahura technosoft.png",
     description:
-      "During my time as a Game Programmer Intern, I collaborated with senior developers to implement core gameplay mechanics using C#. I was responsible for optimizing game performance, fixing bugs, and writing clean, maintainable code for both gameplay and AI systems. Additionally, I worked on integrating audio and physics components, contributing to a real-time multiplayer game. This experience strengthened my problem-solving skills and provided a deep understanding of game programming techniques, including animation systems and real-time rendering optimization.",
+      "Developed Cricket League, a 3D 1-over cricket game for Android using Unity. Contributed as developer, UX designer, and coordinator. Focused on AI-driven fielder mechanics for accurate throws and catches. Managed tasks to ensure timely completion.",
   },
 ];

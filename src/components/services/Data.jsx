@@ -18,7 +18,7 @@ export const services = [
   },
   {
     title: "Mobile App Development",
-    description: "Creating cross-platform mobile apps for Android and iOS.",
+    description: "Creating cross-platform mobile apps for Android.",
     src: "mobile app development.webp",
   },
   {

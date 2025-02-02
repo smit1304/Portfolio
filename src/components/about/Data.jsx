@@ -4,19 +4,23 @@ export const technicalSkills = [
     experties: 80,
   },
   {
+    title: "SOLID Principles",
+    experties: 80,
+  },
+  {
     title: "C#",
+    experties: 80,
+  },
+  {
+    title: "C++",
     experties: 75,
   },
   {
-    title: "c++",
-    experties: 65,
+    title: "SQL",
+    experties: 85,
   },
   {
-    title: "Sql",
-    experties: 65,
-  },
-  {
-    title: "java",
+    title: "Java",
     experties: 60,
   },
   {
@@ -24,12 +28,8 @@ export const technicalSkills = [
     experties: 60,
   },
   {
-    title: "C",
-    experties: 60,
-  },
-  {
     title: "Database Concepts",
-    experties: 70,
+    experties: 75,
   },
   {
     title: "Project Prepoduction and Management",
@@ -61,8 +61,16 @@ export const tools = [
     experties: 90,
   },
   {
-    title: "Godot",
-    experties: 70,
+    title: "Figma",
+    experties: 75,
+  },
+  {
+    title: "Microsoft Suite",
+    experties: 85,
+  },
+  {
+    title: "Blender",
+    experties: 65,
   },
   {
     title: "Visual Studio",
@@ -95,5 +103,9 @@ export const tools = [
   {
     title: "NodeJs",
     experties: 60,
+  },
+  {
+    title: "MongoDB",
+    experties: 75,
   },
 ];

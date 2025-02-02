@@ -1,12 +1,39 @@
-.carousel-item {
-    background-color: #f8f9fa;
-    /* Light background color */
-    height: 300px;
-    /* Adjust as needed */
+/* Button Styling */
+button.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  font-size: 1.25rem;
+  padding: 0.5rem 1.5rem;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  animation: bounceIn 1s ease-in-out;
 }
 
-h3 {
-    font-size: 1.5rem;
-    text-align: center;
-    font-weight: bold;
+button.btn-primary:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes bounceIn {
+  from {
+    transform: scale(0.9);
+    opacity: 0.7;
+  }
+  
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
 }

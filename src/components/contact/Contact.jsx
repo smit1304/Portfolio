@@ -40,7 +40,8 @@ function Contact() {
             <strong>Phone:</strong> +1 (289)623-3835
           </p>
           <p>
-            <strong>Email:</strong> 13smitpatel@gmail.com
+            <strong>Email:</strong>
+            <a href="mailto:smitp1030@gmail.com"> smitp1030@gmail.com</a>
           </p>
           <p>
             <strong>LinkedIn:</strong>{" "}
@@ -50,16 +51,6 @@ function Contact() {
               rel="noopener noreferrer"
             >
               My LinkIn Profile
-            </a>
-          </p>
-          <p>
-            <strong>Github:</strong>{" "}
-            <a
-              href="https://github.com/smit1304"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              My Github Profile
             </a>
           </p>
           <p>

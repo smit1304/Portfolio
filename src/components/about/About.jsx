@@ -5,24 +5,23 @@ export default function About() {
   return (
     <Container className="my-5 text-center">
       <Image src="Profile.jpg" roundedCircle />
+      <Image src="" roundedCircle />
       <h1>About Me</h1>
       <p className="lead">
-        Hi, I am Smit Shantilal Patel, a Game Developer and Gamer. To be
-        specific I like programming video game their gameplay, ai, verity of
-        systems and so on. Playing them is my one of the hobby. If you like
-        playing video games hit me up ! execpt video games I have very diverse
-        music taste I am into almost all kinds of music. What is more, when it
-        comes to reading books times flies for me. I can spend hours reading
-        novels, mangas and other types of books even acedamics.
+        Hi, I'm Smit Patel, a software developer with a passion for game
+        development and creative problem-solving. I blend my Computer
+        Engineering background with ongoing Game Programming studies to craft
+        engaging digital experiences. From developing AI-driven game mechanics
+        to engineering full-stack applications, I transform complex challenges
+        into elegant solutions. Currently based in Toronto, I'm always excited
+        to take on new technical challenges that push the boundaries of what's
+        possible.
       </p>
       <Skills />
       <Row className="mt-4">
         <Col className="text-center">
           {/* Resume Download Button */}
-          <a
-            href="Smit Patel Resume.pdf"
-            download="Smit Patel Resume.pdf"
-          >
+          <a href="Smit Patel Resume.pdf" download="Smit Patel Resume.pdf">
             <Button variant="primary" size="lg">
               Download My Resume
             </Button>
