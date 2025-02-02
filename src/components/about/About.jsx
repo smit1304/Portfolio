@@ -1,10 +1,12 @@
 import { Container, Image, Button, Row, Col } from "react-bootstrap";
 import "./about.css";
+
 import Skills from "./Skills";
 export default function About() {
+  const PUBLIC_URL = "https://smit1304.github.io/Portfolio/";
   return (
     <Container className="my-5 text-center">
-      <Image src="public/Profile.jpg" roundedCircle />
+      <Image src={`${PUBLIC_URL} public/Profile.JPG`} roundedCircle />
       <h1>About Me</h1>
       <p className="lead">
         Hi, I am Smit Shantilal Patel, a Game Developer and Gamer. To be
@@ -20,7 +22,7 @@ export default function About() {
         <Col className="text-center">
           {/* Resume Download Button */}
           <a
-            href="/public/Profile.jpg"
+            href="public/Smit Patel Resume.pdf"
             download="Smit Patel Resume.pdf"
           >
             <Button variant="primary" size="lg">
