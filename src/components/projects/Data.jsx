@@ -1,5 +1,12 @@
 export const projects = [
   {
+    title: "Dice racer",
+    description:
+      "Dice racer is a 3D dice based board game for windows platform. ",
+    photo: "public/Dice Racer.png",
+    duration: "48 Hours (GMTK Game Jam July 2022)",
+  },
+  {
     title: "Cricket League",
     description: "Cricket League is small sized (1 over) 1v1 cricket game.",
     photo: "src/components/projects/assets/cricket league.png",
@@ -12,13 +19,7 @@ export const projects = [
     photo: "src/components/projects/assets/Maps Ar.jpg",
     duration: "Dec 2022 - April 2023",
   },
-  {
-    title: "Dice racer",
-    description:
-      "Dice racer is a 3D dice based board game for windows platform. ",
-    photo: "src/components/projects/assets/Dice Racer.png",
-    duration: "48 Hours (GMTK Game Jam July 2022)",
-  },
+
   {
     title: "AtLeast",
     description: "At Least is an android base card game.",
