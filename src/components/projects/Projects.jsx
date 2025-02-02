@@ -19,6 +19,16 @@ export default function Projects() {
                 <Card.Title>{project.title}</Card.Title>
                 <Card.Text>{project.duration}</Card.Text>
                 <Card.Text>{project.description}</Card.Text>
+                <Card.Text>{project.description}</Card.Text>
+                <Card.Text>
+                  <a
+                    href={project.source}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Explore
+                  </a>
+                </Card.Text>
               </Card.Body>
             </Card>
           </Col>
