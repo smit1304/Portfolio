@@ -1,14 +1,14 @@
 export const educationHistory = [
   {
     degree: "Bachelor of Technology in Computer Engineering",
-    src: "public/charusat logo.png",
+    src: "charusat logo.png",
     institution:
       "Charotar University of Science and Technology, Anand, Gujarat, India.",
     year: "2020 - 2024",
   },
   {
     degree: "Game Programming",
-    src: "public/centennial college.jpeg",
+    src: "centennial college.jpeg",
     institution: "Centennial College, Scarbrough, Ontario, Canada.",
     year: "2024 - current",
   },
